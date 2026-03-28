@@ -1,0 +1,21 @@
+<h4>4 - coderius-play: Installatie</h4>
+<h4><span style="font-size: 0.9375rem; font-weight: 400;">In dit onderwerp leer je hoe je de software kan installeren zodat je zelf kan oefenen hoe je je eigen game kan programmeren.</span></h4>
+<p><span style="font-size: 0.9375rem; font-weight: 400;"><br></span></p>
+<p></p>
+
+
+
+<div class="fa fa-clock-o fa-3x"></div><br> <strong>0.5 uur</strong>
+
+
+<h4>5 - coderius-play: Vormen</h4>
+<h4><span style="font-size: 0.9375rem; font-weight: 400;">In dit onderwerp leer je de beginselen van programmeren in </span><i style="font-size: 0.9375rem; font-weight: 400;">coderius-play: j</i><span style="font-size: 0.9375rem; font-weight: 400;">e leert een cirkel, rechthoek en tekst te tekenen.&nbsp;</span><span style="font-size: 0.9375rem; font-weight: 400;">Ook leer je deze vormen aan te passen.</span></h4>
+<p><span style="font-size: 0.9375rem; font-weight: 400;"><br></span></p>
+<p></p>
+
+
+
+<div class="fa fa-clock-o fa-3x"></div><br> <strong>1 uur</strong>
+
+
+
